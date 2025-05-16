@@ -35,7 +35,7 @@
 ### 📫 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alaka-mahendran-18904a286)
-- 📄 [My Resume]()
+- 📄 [My Resume](https://github.com/alakamahendran/alakamahendran/blob/main/Alaka%20K-resume.pdf)
 - ✉️ Email: alakamahendran@gmail.com
 
 ---
